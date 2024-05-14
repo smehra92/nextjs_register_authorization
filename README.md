@@ -11,3 +11,8 @@ pnpm dev
 # or
 bun dev
 ```
+
+
+
+
+http://localhost:3000/api/auth/signin
